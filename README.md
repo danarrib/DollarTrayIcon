@@ -1,6 +1,6 @@
-# Dolar Tray Icon
+# Dollar Tray Icon
 
-Esta é uma pequena aplicação que mostra o valor da conversão de dólares para reais na área de notificação do Windows.
+Esta é uma pequena aplicação que mostra o valor da conversão de Dólares para Reais na área de notificação do Windows.
 
 ![2022-10-03-12-21-58-image](https://user-images.githubusercontent.com/17026744/193619845-6435682a-3743-4df1-bdf7-2b54dd1706c3.png)
 
